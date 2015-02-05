@@ -1,0 +1,32 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".Principal">
+    <item android:id="@+id/action_cambiarColor" android:title="@string/color"
+        android:orderInCategory="100" android:icon="@drawable/color"
+        app:showAsAction="always|withText"/>
+    <item android:id="@+id/action_lapiz" android:title="@string/color"
+        android:orderInCategory="100" android:icon="@drawable/pen"
+        app:showAsAction="always|withText"/>
+    <item android:id="@+id/action_rectangle" android:title="@string/rect"
+        android:orderInCategory="100" android:icon="@drawable/rectangle"
+        app:showAsAction="always|withText"/>
+    <item android:id="@+id/action_line" android:title="@string/linea"
+        android:orderInCategory="100" android:icon="@drawable/line"
+        app:showAsAction="always|withText"/>
+    <item android:id="@+id/action_circle" android:title="@string/circle"
+        android:orderInCategory="100" android:icon="@drawable/circle"
+        app:showAsAction="always|withText"/>
+    <item android:id="@+id/action_grosor" android:title="@string/grosor"
+        android:orderInCategory="100"
+        app:showAsAction="never"/>
+    <item android:id="@+id/action_borrar" android:title="@string/goma"
+        android:orderInCategory="100"
+        app:showAsAction="never"/>
+    <item android:id="@+id/action_deshacer" android:title="@string/deshacer"
+        android:orderInCategory="100"
+        app:showAsAction="never"/>
+    <item android:id="@+id/action_guardar" android:title="@string/guardar"
+        android:orderInCategory="100"
+        app:showAsAction="never"/>
+</menu>
+

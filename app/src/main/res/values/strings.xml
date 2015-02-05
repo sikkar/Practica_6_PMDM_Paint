@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Paint</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="color">Cambiar color</string>
+    <string name="lapiz">Lapiz</string>
+    <string name="rect">Rectangulo</string>
+    <string name="linea">Linea</string>
+    <string name="circle">Circulo</string>
+    <string name="grosor">Trazo pincel</string>
+    <string name="goma">Borrar</string>
+    <string name="deshacer">Deshacer</string>
+    <string name="guardar">Guardar</string>
+
+</resources>
